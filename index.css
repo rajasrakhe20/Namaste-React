@@ -1,3 +1,90 @@
-#heading{
-    color: red;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
 }
+.logo{
+    width: 150px;
+}
+
+.nav-items ul{
+    display: flex;
+    list-style-type: none;
+    font-size: 24px;
+}
+
+.nav-items ul li{
+    padding: 10px;
+    margin: 10px;
+}
+
+.res-card{
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+  
+}
+
+
+
+.res-card:hover{
+    border: 1px solid black;
+    cursor: pointer;   
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.search-bar{
+    padding: 10px;
+}
+
+.res-logo{
+    width: 100%;
+}
+
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}
+
+.filter{
+    display: flex;
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    margin: 20px;
+    width: 200px;
+    height: 400px;
+    background-color: lightgrey;
+}
+
+.login-btn{
+    padding: 0 20px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.search{
+    margin: 15px;
+}
+
+.search-btn{
+    cursor: pointer;
+}
+
+.user-card{
+    padding: 10px;
+    border: 1px solid black;
+} */
