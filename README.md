@@ -1,1 +1,1 @@
-# Namate React JS
+# TastyPal - A food ordering application
